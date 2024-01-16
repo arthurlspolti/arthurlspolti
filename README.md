@@ -1,17 +1,16 @@
 <h1 align="center">Oi, eu me chamo Arthur Spolti 👋</h1>
 
-#
 <br />
 
-<h3 align="center">🖥Lionguagens e Tecnologias</h3>
+<h3 align="center">🖥Linguagens e Tecnologias</h3>
 <br />
 
 <p align="center">
- <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title = "javascript"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title = "Javascript"/></code>
  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title = "Typescript"/></code>
- <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "Node"/></code>
- <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title = "Next"/></code>
- <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title = "Tailwind"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NodeJs"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title = "NextJs"/></code>
+ <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title = "TailwindCSS"/></code>
 </p>
 <br />
 
